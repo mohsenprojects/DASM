@@ -1,0 +1,4 @@
+target for friday:
+check the utils1-4 and test and complate all
+
+and develop  the parser
